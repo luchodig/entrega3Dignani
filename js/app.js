@@ -51,7 +51,7 @@ function alerta(title, text, icon) {
 
 function toast() {
     Toastify({
-        text: "Gracias por cotizar con nosotros.",
+        text: "Gracias por elegirnos.",
         duration: 4000,
         close: true,
         gravity: "top", // `top` or `bottom`
